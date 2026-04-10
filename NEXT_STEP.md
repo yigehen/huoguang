@@ -1,26 +1,26 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: Chapter 71 planning edge
-- Current target file: `chapters/71.md`
+- Current recovery point: Chapter 81 drafting edge
+- Current target file: `chapters/81.md`
 - Task type: next bounded drafting pass
 - Pointer rule: this is a temporary next-action pointer, not a permanent chapter anchor
 
 ## Next bounded task
-- Goal: draft Chapter 71 only,承接周予安失联、林晚棠开口与秦姨身份揭露后的第一轮后果，重点落在“谁先去找秦姨 / 谁先追周予安 / 周明远如何压口”三股力量的碰撞。
+- Goal: draft Chapter 81 only，承接培训楼封楼后的脱身动作，重点落在“账册能否带走 / 第三人线索先追哪头 / 周予安在真相冲击后是否稳住”三股压力同时推进。
 - Output required:
-  - new `chapters/71.md`
+  - new `chapters/81.md`
   - one short entry appended to `PROGRESS.md`
   - this file rewritten with the next recovery point after the run
 - Done when:
-  - Chapter 71 exists on disk as one complete draft
+  - Chapter 81 exists on disk as one complete draft
   - no multi-chapter expansion was attempted
   - `PROGRESS.md` and `NEXT_STEP.md` were updated before the run ends
 
 ## Update rule after completion
 After finishing this task, overwrite this file with the new pointer, for example:
-- Current recovery point: Chapter 72
-- Current target file: `chapters/72.md`
+- Current recovery point: Chapter 82
+- Current target file: `chapters/82.md`
 - Task type: drafting / revision
 
 Do not leave an outdated chapter pointer here after progress has moved on.
