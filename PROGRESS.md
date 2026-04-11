@@ -1,9 +1,9 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第85章首轮正文草稿。
+- 已完成第61章至第90章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
-- 当前主线已从海榆 / 海临 / A13 继续推进到“岸上保留序列 / 并档替位 / 白天签字层 / 春岚旧线 / 春航班 / 二号线 / 听风台 / A17后空列 / 北药房”。
+- 当前主线已从海榆 / 海临 / A13 继续推进到“岸上保留序列 / 并档替位 / 白天签字层 / 春岚旧线 / 春航班 / 二号线 / 听风台 / A17后空列 / 北药房 / 试做口”。
 
 ## Completed runs
 - 2026-04-07: Added resumable workflow files to reduce ACP/session lockups.
@@ -14,11 +14,12 @@
 - 2026-04-10: Drafted chapters 71-75 (`71.md`-`75.md`) and synced README / chapter index / notes / progress pointers around 秦姨二号线、桥北二库、西照护口、旧药房与听风台前夜。
 - 2026-04-10: Drafted chapters 76-80 (`76.md`-`80.md`) and synced README / chapter index / notes / progress pointers around 听风台录音、春岚旧北账、A17后空列、第三人线索与培训楼封楼。
 - 2026-04-10: Drafted and revised chapters 81-85 (`81.md`-`85.md`) and synced README / chapter index / notes / progress pointers around 北药房、许秋屏、冯慎现身、第三人存活可能与沈临舟旧敲门号。
+- 2026-04-10: Drafted and revised chapters 86-90 (`86.md`-`90.md`, each 2000+ Chinese chars) and synced README / chapter index / notes / progress pointers around 门外旧海线来人、冯慎那一针、试做口与第三人“成功样本”。
 
 ## Known operating constraints
 - 长篇工作仍应尽量维持有界运行，避免一次性无限扩写。
 - 新增章节后，应优先按单章做修订，而不是立刻继续长跑。
-- 岸上名单、白天签字层、春岚旧线、周予安回线、听风台录音线、A17后空列、北药房旧线等信息量较大，后续每章应控制主反转数量。
+- 岸上名单、白天签字层、春岚旧线、周予安回线、听风台录音线、A17后空列、北药房旧线、试做口等信息量较大，后续每章应控制主反转数量。
 
 ## Notes
-- 本轮新增关键落盘内容：北药房守门人许秋屏、沈临舟第三天带人离海、何清如“暂视为活”补信、冯慎真钥匙进门，以及门外再次响起的沈临舟旧敲门号。
+- 本轮新增关键落盘内容：门外旧海线来人陆潮、冯慎带来的无色细针、试做口、第三人“成功样本”、以及“周口”曾被用于早期白天壳这层新反转。
