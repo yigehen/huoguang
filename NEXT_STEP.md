@@ -1,27 +1,27 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: Chapter 91 drafting edge
-- Current target file: `chapters/91.md`
+- Current recovery point: Chapter 101 drafting edge
+- Current target file: `chapters/101.md`
 - Task type: next bounded drafting pass
 - Pointer rule: this is a temporary next-action pointer, not a permanent chapter anchor
 
 ## Next bounded task
-- Goal: draft Chapter 91 only，承接北药房里新的“先送谁走”压力，重点落在“谁先离开死口 / 冯慎外线是否已经合围 / 第三个成功样本的现实身份第一轮指向”三股压力同时推进。
+- Goal: draft Chapter 101 only，承接“双门并开”后的第一落点，优先写其中一路先动身并真正入门，控制揭示密度，只掀一层实物/实景，不要两线同章同时大爆。
 - Output required:
-  - new `chapters/91.md`
+  - new `chapters/101.md`
   - one short entry appended to `PROGRESS.md`
   - this file rewritten with the next recovery point after the run
 - Done when:
-  - Chapter 91 exists on disk as one complete draft
+  - Chapter 101 exists on disk as one complete draft
   - no multi-chapter expansion was attempted
   - `PROGRESS.md` and `NEXT_STEP.md` were updated before the run ends
 
 ## Update rule after completion
 After finishing this task, overwrite this file with the new pointer, for example:
-- Current recovery point: Chapter 92
-- Current target file: `chapters/92.md`
-- Task type: drafting / revision
+|- Current recovery point: Chapter 102
+|- Current target file: `chapters/102.md`
+|- Task type: drafting / revision
 
 Do not leave an outdated chapter pointer here after progress has moved on.
 

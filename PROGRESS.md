@@ -1,7 +1,7 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第90章首轮正文草稿。
+- 已完成第61章至第100章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
 - 当前主线已从海榆 / 海临 / A13 继续推进到“岸上保留序列 / 并档替位 / 白天签字层 / 春岚旧线 / 春航班 / 二号线 / 听风台 / A17后空列 / 北药房 / 试做口”。
 
@@ -15,6 +15,9 @@
 - 2026-04-10: Drafted chapters 76-80 (`76.md`-`80.md`) and synced README / chapter index / notes / progress pointers around 听风台录音、春岚旧北账、A17后空列、第三人线索与培训楼封楼。
 - 2026-04-10: Drafted and revised chapters 81-85 (`81.md`-`85.md`) and synced README / chapter index / notes / progress pointers around 北药房、许秋屏、冯慎现身、第三人存活可能与沈临舟旧敲门号。
 - 2026-04-10: Drafted and revised chapters 86-90 (`86.md`-`90.md`, each 2000+ Chinese chars) and synced README / chapter index / notes / progress pointers around 门外旧海线来人、冯慎那一针、试做口与第三人“成功样本”。
+- 2026-04-11: Drafted chapter 91 (`91.md`) and synced README / chapter index / notes / progress pointers around 北药房“死口”、错位送离、林照明路撤离、陆潮假目标与冯慎回身压口。
+- 2026-04-11: Drafted chapters 92-95 (`92.md`-`95.md`) and synced README / chapter index / notes / progress pointers around 北药房门口对峙、明路脱身、废井接照、07-B 留影、“周老师在场，不入名单”与海城育衡特殊教育中心新指向。
+- 2026-04-11: Drafted chapters 96-100 (`96.md`-`100.md`) and synced README / chapter index / notes / progress pointers around 周和回线、周叙川未死、夏宁替位线，以及“育衡后楼 / 周家东书房”双门并开前夜。
 
 ## Known operating constraints
 - 长篇工作仍应尽量维持有界运行，避免一次性无限扩写。
@@ -22,4 +25,4 @@
 - 岸上名单、白天签字层、春岚旧线、周予安回线、听风台录音线、A17后空列、北药房旧线、试做口等信息量较大，后续每章应控制主反转数量。
 
 ## Notes
-- 本轮新增关键落盘内容：门外旧海线来人陆潮、冯慎带来的无色细针、试做口、第三人“成功样本”、以及“周口”曾被用于早期白天壳这层新反转。
+- 本轮新增关键落盘内容：周和正式回线、周叙川未死的第一轮坐实、夏宁这条“下一任周老师”替位线、何清如曾带走“学生转介观察表”、以及“育衡后楼 / 周家老宅东书房”双门并开。
