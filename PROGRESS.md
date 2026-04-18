@@ -34,3 +34,4 @@
 - 2026-04-13: Drafted chapters 111-115 (`111.md`-`115.md`) and synced README / chapter index / notes / progress / next-step pointer around 川先生活线电话、旧总办楼四层封档间、东柜三顺序页、梁姨带走关键页，以及二零七暂缓回执半联。
 
 - 2026-04-15: Drafted chapters 116-125 (`116.md`-`125.md`) and synced README / chapter index / notes / progress / next-step pointer around 四层翻窗脱身、后库接页链、梁姨楼外来电、育衡307后续口、顾芳改页、夏宁原姓周，以及陆潮楼下接应。
+- 2026-04-18: Drafted chapters 126-135 (`126.md`-`135.md`) and synced README / chapter index / notes / progress / next-step pointer around 307破门脱身、周字借壳、顾芳反向抛线、梅姐认脸、沈姓旧女孩、灰皮蓝线认脸表、旧秘书培训楼，以及周叙川本人落地。
