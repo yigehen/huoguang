@@ -1,23 +1,24 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: Chapter 136 drafting edge
-- Current target file: `chapters/136.md`
+- Current recovery point: Chapter 145 aftermath
+- Current target file: `chapters/146.md`
 - Task type: next bounded drafting pass
 - Pointer rule: this is a temporary next-action pointer, not a permanent chapter anchor
 
 ## Next bounded task
-- Goal: continue Chapters 136-140，重点处理旧秘书培训楼地下资料室这场对峙的连续后果，不要急着一次揭完沈姓女孩身份；必须同时推进四件事：
-  - 周叙白与周叙川正面对撞后的第一轮失衡与旧账刺点
-  - 夏秘书手里认脸表到底拆掉了哪几页、会不会当场转手
-  - 夏宁在现场如何第一次不再只是被认的脸，而能主动指出一处旧位置信息
-  - 顾芳是否还活、梅姐会不会被补收，以及这条中间静口线的代价继续外扩
+- Goal: draft Chapters 146-150，紧接河边旧候船室脱身后这一段，集中做一件有界动作：围绕“沈右页，勿再下送”这张外口对照页，先去找河滩旧候船室外口与第三恢复前过站之间的现实连接，不要急着直接揭开沈姓女孩身份。
+  - 必须推进周叙白手里那半层旧知到底卡在河边哪一站，以及他为什么之前压着不说
+  - 必须落一次对顾芳去向的追索，至少确认她是还在第三恢复前过站，还是已经被再下送
+  - 必须让夏秘书这条线继续有后果，至少交代她拆表、送页后自身目前是失联、被收，还是另留了反手口
+  - 必须继续让夏宁保持主动识别旧地方/旧门/旧程序的功能性，而不是退回单纯被比较的脸
 - Output required:
-  - drafted `chapters/136.md` to `chapters/140.md`
-  - one short entry appended to `PROGRESS.md`
-  - this file rewritten with the next recovery point after the run
+  - drafted `chapters/146.md` to `chapters/150.md`
+  - updated `PROGRESS.md`
+  - rewritten `NEXT_STEP.md`
 - Done when:
-  - Chapters 136-140 were on disk
-  - 资料室对峙至少完成一次转手或错手，不原地空耗
-  - 沈昭与周叙白维持高压张力，不写成无摩擦联手
+  - Chapters 146-150 were on disk
+  - 河边外口与第三恢复前过站之间至少有一个现实连接点被摸到
+  - 顾芳去向获得一次更具体确认
+  - 沈昭与周叙白仍保持高压合作，不写成顺滑和解
   - `PROGRESS.md` and `NEXT_STEP.md` were updated before the run ends
