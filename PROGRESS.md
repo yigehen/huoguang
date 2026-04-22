@@ -1,9 +1,9 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第145章首轮正文草稿。
+- 已完成第61章至第155章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
-- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 回送板 / 沈右页勿再下送”。
+- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 最早昼签转接底表另一半”。
 
 ## Completed runs
 - 2026-04-07: Added resumable workflow files to reduce ACP/session lockups.
@@ -36,3 +36,4 @@
 - 2026-04-15: Drafted chapters 116-125 (`116.md`-`125.md`) and synced README / chapter index / notes / progress / next-step pointer around 四层翻窗脱身、后库接页链、梁姨楼外来电、育衡307后续口、顾芳改页、夏宁原姓周，以及陆潮楼下接应。
 - 2026-04-18: Drafted chapters 126-135 (`126.md`-`135.md`) and synced README / chapter index / notes / progress / next-step pointer around 307破门脱身、周字借壳、顾芳反向抛线、梅姐认脸、沈姓旧女孩、灰皮蓝线认脸表、旧秘书培训楼，以及周叙川本人落地。
 - 2026-04-20: Drafted chapters 137-145 (`137.md`-`145.md`) while preserving chapter 136, and synced README / chapter index / notes / progress / next-step / memory around 资料室对峙后果、第二/第三恢复路线、河边旧候船室、黎楠活口，以及“沈右页，勿再下送”实物落地。
+- 2026-04-22: Drafted chapters 146-155 (`146.md`-`155.md`, each 3000+ Chinese chars by file-length check) and synced README / chapter index / notes / progress / next-step / memory around 东妇幼旧协作点前过站、西段三七白车、城南陪护中心旧北院、夏宁半个名字的夜门签、周口第一批水调线，以及旧电报房母柜与最早底表另一半露头。
