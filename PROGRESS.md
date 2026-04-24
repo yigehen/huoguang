@@ -37,3 +37,5 @@
 - 2026-04-18: Drafted chapters 126-135 (`126.md`-`135.md`) and synced README / chapter index / notes / progress / next-step pointer around 307破门脱身、周字借壳、顾芳反向抛线、梅姐认脸、沈姓旧女孩、灰皮蓝线认脸表、旧秘书培训楼，以及周叙川本人落地。
 - 2026-04-20: Drafted chapters 137-145 (`137.md`-`145.md`) while preserving chapter 136, and synced README / chapter index / notes / progress / next-step / memory around 资料室对峙后果、第二/第三恢复路线、河边旧候船室、黎楠活口，以及“沈右页，勿再下送”实物落地。
 - 2026-04-22: Drafted chapters 146-155 (`146.md`-`155.md`, each 3000+ Chinese chars by file-length check) and synced README / chapter index / notes / progress / next-step / memory around 东妇幼旧协作点前过站、西段三七白车、城南陪护中心旧北院、夏宁半个名字的夜门签、周口第一批水调线，以及旧电报房母柜与最早底表另一半露头。
+
+- 2026-04-24: Drafted chapters 156-165 (`156.md`-`165.md`) and synced project pointers around 旧电报房底表、白日照相铺底片、顾芳回送板、川字水调、旧少年宫第三排与“原片未死”新钩子。
