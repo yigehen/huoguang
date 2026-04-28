@@ -1,9 +1,9 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第155章首轮正文草稿。
+- 已完成第61章至第175章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
-- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 最早昼签转接底表另一半”。
+- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 最早昼签转接底表另一半 / 白日照相铺R袋 / 河房留手 / 容姐 / 未进镜头的第二个孩子”。
 
 ## Completed runs
 - 2026-04-07: Added resumable workflow files to reduce ACP/session lockups.
@@ -39,3 +39,5 @@
 - 2026-04-22: Drafted chapters 146-155 (`146.md`-`155.md`, each 3000+ Chinese chars by file-length check) and synced README / chapter index / notes / progress / next-step / memory around 东妇幼旧协作点前过站、西段三七白车、城南陪护中心旧北院、夏宁半个名字的夜门签、周口第一批水调线，以及旧电报房母柜与最早底表另一半露头。
 
 - 2026-04-24: Drafted chapters 156-165 (`156.md`-`165.md`) and synced project pointers around 旧电报房底表、白日照相铺底片、顾芳回送板、川字水调、旧少年宫第三排与“原片未死”新钩子。
+
+- 2026-04-28: Drafted chapters 166-175 (`166.md`-`175.md`) and synced README / chapter index / notes / progress / next-step / memory around 白日照相铺后门、补洗R袋、河道冲洗房、护理袖口、容姐，以及拍照当日未进镜头的第二个孩子。
