@@ -41,3 +41,4 @@
 - 2026-04-24: Drafted chapters 156-165 (`156.md`-`165.md`) and synced project pointers around 旧电报房底表、白日照相铺底片、顾芳回送板、川字水调、旧少年宫第三排与“原片未死”新钩子。
 
 - 2026-04-28: Drafted chapters 166-175 (`166.md`-`175.md`) and synced README / chapter index / notes / progress / next-step / memory around 白日照相铺后门、补洗R袋、河道冲洗房、护理袖口、容姐，以及拍照当日未进镜头的第二个孩子。
+- 2026-04-30: Added missing body titles to chapters 156-165 and expanded every chapter from 156-175 to at least 1500 Chinese characters, preserving the existing plot sequence around 旧电报房、白日照相铺、R袋、河房留手、容姐与第二个孩子线。

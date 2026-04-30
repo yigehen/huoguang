@@ -2,9 +2,13 @@
 
 ## Resume pointer
 - Current recovery point: post-Chapter 175 容姐与第二个孩子线
-- Current target file: `chapters/166.md`
-- Task type: first-new-batch revision pass
+- Current target file: `chapters/176.md`
+- Task type: next bounded draft or targeted revision
+
+## Latest maintenance note
+- Chapters 156-175 have been checked and expanded to at least 1500 Chinese characters each.
+- Chapters 156-165 now include body titles at the top of each chapter file.
 
 ## Next bounded task
-- Goal: revise Chapters 166-170 as a bounded tightening pass, focusing on 白日照相铺后门、R袋认袋逻辑、短发女人认手意图与夏宁主动拆流程的成长递进，不提前坐死第二个孩子身份。
-- Output required: revised `chapters/166.md` to `chapters/170.md`, updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.
+- Goal: either draft Chapter 176 from 容姐与未进镜头的第二个孩子线, or do a focused tightening pass on Chapters 171-175 if revision is requested first.
+- Output required: updated chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.

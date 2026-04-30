@@ -112,3 +112,4 @@
 
 - 已完成第166章到第175章首轮正文，当前主线继续从旧少年宫第三排与原片未死推进到白日照相铺后门、R袋不入册、河道冲洗房、护理袖口、容姐与未进镜头的第二个孩子。
 - Latest drafted batch: chapters 166-175 completed on 2026-04-28.
+- 2026-04-30 revision check: chapters 156-175 have been expanded to at least 1500 Chinese characters each; missing body titles for chapters 156-165 have been added.
