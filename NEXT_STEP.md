@@ -1,14 +1,13 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: post-Chapter 175 容姐与第二个孩子线
-- Current target file: `chapters/176.md`
+- Current recovery point: post-Chapter 185 容姐旧屋新纸条与第二个孩子还在海城
+- Current target file: `chapters/186.md`
 - Task type: next bounded draft or targeted revision
 
 ## Latest maintenance note
-- Chapters 156-175 have been checked and expanded to at least 1500 Chinese characters each.
-- Chapters 156-165 now include body titles at the top of each chapter file.
+- Chapters 176-185 have been drafted and checked for basic continuity, body length, and blunt carry-over phrasing.
 
 ## Next bounded task
-- Goal: either draft Chapter 176 from 容姐与未进镜头的第二个孩子线, or do a focused tightening pass on Chapters 171-175 if revision is requested first.
+- Goal: draft Chapter 186 from 容姐旧屋留下的新纸条继续，优先处理“第二个孩子还在海城”如何落到现实人线，同时保持沈昭与周叙白在周口责任上的张力。
 - Output required: updated chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.

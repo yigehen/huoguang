@@ -1,9 +1,9 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第175章首轮正文草稿。
+- 已完成第61章至第185章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
-- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 最早昼签转接底表另一半 / 白日照相铺R袋 / 河房留手 / 容姐 / 未进镜头的第二个孩子”。
+- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 最早昼签转接底表另一半 / 白日照相铺R袋 / 河房留手 / 容姐 / 未进镜头的第二个孩子 / 夜巡簿 / S线车票 / 海临旧码头 / 沈姓旧名 / 容姐旧屋”。
 
 ## Completed runs
 - 2026-04-07: Added resumable workflow files to reduce ACP/session lockups.
@@ -42,3 +42,4 @@
 
 - 2026-04-28: Drafted chapters 166-175 (`166.md`-`175.md`) and synced README / chapter index / notes / progress / next-step / memory around 白日照相铺后门、补洗R袋、河道冲洗房、护理袖口、容姐，以及拍照当日未进镜头的第二个孩子。
 - 2026-04-30: Added missing body titles to chapters 156-165 and expanded every chapter from 156-175 to at least 1500 Chinese characters, preserving the existing plot sequence around 旧电报房、白日照相铺、R袋、河房留手、容姐与第二个孩子线。
+- 2026-05-01: Drafted chapters 176-185 (`176.md`-`185.md`) and synced README / chapter index / notes / progress / next-step / memory around 未进镜头的第二个孩子、城南北院夜巡簿空床、颈后红点、S线车票、海临旧码头白牌、勿交周口、沈姓旧名、小昭称呼与容姐旧屋新纸条。

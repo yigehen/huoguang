@@ -5,7 +5,7 @@
 ## 当前内容
 - `outline/outline.md`：总大纲
 - `characters/characters.md`：人物设定整理
-- `chapters/`：第一章至第一百七十五章正文归档
+- `chapters/`：第一章至第一百八十五章正文归档
 - `chapters/chapter-index.md`：章节索引
 - `notes/project-notes.md`：项目说明与阶段摘要
 - `notes/timeline.md`：关键事件时间线
@@ -14,7 +14,7 @@
 - `LOW-TOKEN-WORKFLOW.md`：后续续写时的低 token 工作规则
 
 ## 当前进度
-- 已归档正文：第 1 章至第 175 章
+- 已归档正文：第 1 章至第 185 章
 - 当前剧情位置：在“爱与审判”卷后段继续深入，已从河边外口与前过站追索推进到城南陪护中心旧北院、夏秘书夜门留口、周口第一批水调线，以及旧电报房母柜与最早底表另一半露头
 - 核心推进节点：
   - 第31章《最后一场听证》
@@ -113,3 +113,5 @@
 - 已完成第166章到第175章首轮正文，当前主线继续从旧少年宫第三排与原片未死推进到白日照相铺后门、R袋不入册、河道冲洗房、护理袖口、容姐与未进镜头的第二个孩子。
 - Latest drafted batch: chapters 166-175 completed on 2026-04-28.
 - 2026-04-30 revision check: chapters 156-175 have been expanded to at least 1500 Chinese characters each; missing body titles for chapters 156-165 have been added.
+- 已完成第176章到第185章首轮正文，当前主线继续从容姐与未进镜头的第二个孩子推进到夜巡簿空床、颈后红点、S线车票、海临旧码头白牌、沈姓旧名，以及容姐旧屋留下“第二个孩子还在海城”的新纸条。
+- Latest drafted batch: chapters 176-185 completed on 2026-05-01.
