@@ -43,3 +43,5 @@
 - 2026-04-28: Drafted chapters 166-175 (`166.md`-`175.md`) and synced README / chapter index / notes / progress / next-step / memory around 白日照相铺后门、补洗R袋、河道冲洗房、护理袖口、容姐，以及拍照当日未进镜头的第二个孩子。
 - 2026-04-30: Added missing body titles to chapters 156-165 and expanded every chapter from 156-175 to at least 1500 Chinese characters, preserving the existing plot sequence around 旧电报房、白日照相铺、R袋、河房留手、容姐与第二个孩子线。
 - 2026-05-01: Drafted chapters 176-185 (`176.md`-`185.md`) and synced README / chapter index / notes / progress / next-step / memory around 未进镜头的第二个孩子、城南北院夜巡簿空床、颈后红点、S线车票、海临旧码头白牌、勿交周口、沈姓旧名、小昭称呼与容姐旧屋新纸条。
+
+- 2026-05-04: Fixed repeated-template content in chapters 176-185 by rewriting the batch into distinct chapter bodies while preserving the intended progression from night patrol ledger / red neck mark / S-line ticket / Hailin old dock / Xu Nanyin reveal; rechecked all ten chapters for 1500+ Chinese characters and duplicate hashes.
