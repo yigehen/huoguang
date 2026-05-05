@@ -115,3 +115,4 @@
 - 2026-04-30 revision check: chapters 156-175 have been expanded to at least 1500 Chinese characters each; missing body titles for chapters 156-165 have been added.
 - 已完成第176章到第185章首轮正文，当前主线继续从容姐与未进镜头的第二个孩子推进到夜巡簿空床、颈后红点、S线车票、海临旧码头白牌、沈姓旧名，以及容姐旧屋留下“第二个孩子还在海城”的新纸条。
 - Latest drafted batch: chapters 176-185 completed on 2026-05-01.
+- 最新进度：已完成第186-195章，主线推进到许南音被沈昭一行抢在周口完全认名之前稳住，并说出“南边那个音”与“川先生”旧称呼。

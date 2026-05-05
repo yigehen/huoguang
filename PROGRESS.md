@@ -45,3 +45,4 @@
 - 2026-05-01: Drafted chapters 176-185 (`176.md`-`185.md`) and synced README / chapter index / notes / progress / next-step / memory around 未进镜头的第二个孩子、城南北院夜巡簿空床、颈后红点、S线车票、海临旧码头白牌、勿交周口、沈姓旧名、小昭称呼与容姐旧屋新纸条。
 
 - 2026-05-04: Fixed repeated-template content in chapters 176-185 by rewriting the batch into distinct chapter bodies while preserving the intended progression from night patrol ledger / red neck mark / S-line ticket / Hailin old dock / Xu Nanyin reveal; rechecked all ten chapters for 1500+ Chinese characters and duplicate hashes.
+- 2026-05-05: Drafted chapters 186-195 (`186.md`-`195.md`) and synced README / chapter index / notes / progress / next-step around 海棠里二十七号、评估袋红线结、安抚流程、许姓旧线补签、许南音自述、旧托管室、小昭诱导称呼、北药房暂护与公益留用双层，以及“南边那个音 / 川先生”新钩子。

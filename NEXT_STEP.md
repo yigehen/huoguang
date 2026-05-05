@@ -1,13 +1,13 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: post-Chapter 185 容姐旧屋新纸条与第二个孩子还在海城
-- Current target file: `chapters/186.md`
+- Current recovery point: post-Chapter 195 许南音说出“南边那个音”与“川先生”旧称呼，周叙川线压回第二个孩子当年带走现场
+- Current target file: `chapters/196.md`
 - Task type: next bounded draft or targeted revision
 
 ## Latest maintenance note
-- Chapters 176-185 were repaired on 2026-05-04: repeated-template bodies were replaced with distinct chapter drafts and rechecked for 1500+ Chinese characters, duplicate hashes, and blunt carry-over phrasing.
+- Chapters 186-195 have been drafted and checked for 1500+ body characters, no duplicate body hashes, and no blunt carry-over phrasing.
 
 ## Next bounded task
-- Goal: draft Chapter 186 from 容姐旧屋留下的新纸条继续，优先处理“第二个孩子还在海城”如何落到现实人线，同时保持沈昭与周叙白在周口责任上的张力。
+- Goal: draft Chapter 196 from 许南音短暂被稳住继续，重点处理她对周姓的不信任、周叙白如何承受周叙川旧线反噬，以及“南边那个音”称呼如何指向当年转手现场。
 - Output required: updated chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.
