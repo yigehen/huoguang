@@ -1,13 +1,13 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: post-Chapter 205 春岚旧课堂东墙后柜磁带点出“沈尾一，现名沈昭”，许南音认出川先生
-- Current target file: `chapters/206.md`
-- Task type: next bounded draft / revision pass
+- Current recovery point: post-Chapter 220 第二课堂被封存，春来椅刻字“我来过”落地，原始影像被转存到周家老宅东书房暗柜
+- Current target file: `chapters/206.md`-`chapters/220.md` revision pass
+- Task type: next bounded revision / continuity tightening pass
 
 ## Latest maintenance note
-- Chapters 196-205 have been drafted and checked for 1500+ body characters, no duplicate body hashes, no blunt carry-over phrasing, and no cross-project contamination.
+- Chapters 206-220 have been drafted and checked for 1500+ body Chinese characters, no duplicate body hashes, no blunt carry-over phrasing, no double quotes / em dashes, and no cross-project contamination.
 
 ## Next bounded task
-- Goal: draft Chapter 206 from 春岚旧课堂与沈昭旧名强钩子继续，重点处理沈昭身份被旧系统重新命名的冲击、周叙白如何交代周叙川与周伯责任、许南音记忆继续恢复，以及周家老宅反扑。
-- Output required: updated chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.
+- Goal: revise Chapters 206-210 first, focusing on沈昭被旧命名系统拖入、幼随代答、春来自名、蓝片旧音与沈尾二线索的情绪压强，避免说明感过重。
+- Output required: revised chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.
