@@ -1,9 +1,9 @@
 # PROGRESS.md
 
 ## Current status
-- 已完成第61章至第220章首轮正文草稿。
+- 已完成第61章至第225章首轮正文草稿。
 - 已同步更新章节索引、README、项目笔记、时间线、悬疑线、人物关系图。
-- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 白日照相铺R袋 / 河房留手 / 容姐 / 未进镜头的第二个孩子 / 许南音 / 周家祠堂后库 / 春岚旧课堂 / 幼随代答 / 蓝片旧音 / 沈尾二 / 春来班 / 第二课堂 / 春来椅”。
+- 当前主线已从海榆 / 海临 / A13 继续推进到“认脸表 / 右页体系 / 第二恢复路 / 第三恢复路 / 河边旧候船室 / 外口认地 / 前过站 / 西段三七 / 城南北院 / 旧电报房 / 白日照相铺R袋 / 河房留手 / 容姐 / 未进镜头的第二个孩子 / 许南音 / 周家祠堂后库 / 春岚旧课堂 / 幼随代答 / 蓝片旧音 / 沈尾二 / 春来班 / 第二课堂 / 春来椅 / 东书房暗柜 / 回声房 / 明昼口 / 青苔巷四号 / 白鹿桥”。
 
 ## Completed runs
 - 2026-04-07: Added resumable workflow files to reduce ACP/session lockups.
@@ -48,3 +48,5 @@
 - 2026-05-05: Drafted chapters 186-195 (`186.md`-`195.md`) and synced README / chapter index / notes / progress / next-step around 海棠里二十七号、评估袋红线结、安抚流程、许姓旧线补签、许南音自述、旧托管室、小昭诱导称呼、北药房暂护与公益留用双层，以及“南边那个音 / 川先生”新钩子。
 - 2026-05-07: Drafted chapters 196-205 (`196.md`-`205.md`) and synced chapter index / notes / mystery-thread / relationship-map / timeline / progress / next-step / memory around 周伯、周家祠堂后库、旧访客簿、周叙川旧签名、许南音记忆触发、沈昭逼周叙白面对周口责任，以及春岚旧课堂与沈昭旧名强钩子。
 - 2026-05-09: Drafted chapters 206-220 (`206.md`-`220.md`) and synced chapter index / notes / mystery-thread / relationship-map / timeline / progress / next-step / memory around 东墙后柜、幼随代答、春来自名、蓝片旧音、沈尾二、许南音蓝标档案、春来班回访、旧海榆地下层、南音旧椅、第二课堂与春来椅原始影像回到周家东书房暗柜的新钩子。
+
+- 2026-05-12: Drafted chapters 221-225 (`221.md`-`225.md`) and synced chapter index / notes / progress / next-step / memory around 周家老宅东书房暗柜、春来原始影像、椅底胶片“不是我一个人”、回声房复听训练、蓝姨声音线、明昼口、青苔巷四号春声阅读室、阳光卡正确声音训练，以及白鹿桥旧福利阅览点与容姐新钩子。
