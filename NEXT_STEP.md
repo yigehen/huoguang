@@ -1,13 +1,13 @@
 # NEXT_STEP.md
 
 ## Resume pointer
-- Current recovery point: post-Chapter 230 白林日间康复花园声库被查，衡启年顾问账号仍在现时活动，温室终端显示“下一步，回收旧声”，地下档案冷库成为新的抢点。
-- Current target file: `chapters/226.md`-`chapters/230.md` revision pass
+- Current recovery point: post-Chapter 240 白鹿桥旧水渠下游水线已打开，声纹转影胶片经岑口二号旧防汛材料仓接收，灰雨衣接影人提示母课第三页已被回收，下游三号仓亮灯成为新的抢点。
+- Current target file: `chapters/236.md`-`chapters/240.md` revision pass
 - Task type: next bounded revision / continuity tightening pass
 
 ## Latest maintenance note
-- Chapters 226-230 have been drafted chapter-by-chapter and checked for 1500+ body Chinese characters, no duplicate body hashes, no repeated paragraphs, no blunt carry-over phrasing, no double quotes / em dashes, and no cross-project contamination.
+- Chapters 236-240 have been drafted chapter-by-chapter and checked for 1500+ body Chinese characters, no duplicate body hashes, no repeated paragraphs, no blunt carry-over phrasing, no double quotes / em dashes, and no cross-project contamination.
 
 ## Next bounded task
-- Goal: revise Chapters 226-230 first, focusing on白鹿桥分流、容姐未交春来、蓝姨 / 蓝芮声音线、白林声库、衡启年观察档案与地下冷库抢点的场景层次，避免解释过密，同时保留沈昭 / 周叙白高压合作的张力。
+- Goal: revise Chapters 236-240 first, focusing on旧水渠低处水线、别应声陷阱、声纹转影胶片、岑口二号接影、灰雨衣接影人和下游三号仓亮灯的场景层次，避免解释过密，同时保留沈昭 / 周叙白高压合作的张力。
 - Output required: revised chapter file(s), updated `PROGRESS.md`, rewritten `NEXT_STEP.md`.
